@@ -2,9 +2,9 @@
   {
     "companies": [
       {
-        "companyName": "Contentstack",
-        "logo": "https://www.contentstack.com/favicon.ico",
-        "url": "/contentstack"
+        "companyName": "Surfboard",
+        "logo": "https://www.surfboardventures.com/favicon.ico",
+        "url": "/surfboard"
       },
       {
         "companyName": "Raw Engineering",
@@ -12,9 +12,9 @@
         "url": "/raw-engineering"
       },
       {
-        "companyName": "Surfboard",
-        "logo": "https://www.surfboardventures.com/favicon.ico",
-        "url": "/surfboard"
+        "companyName": "Contentstack",
+        "logo": "https://www.contentstack.com/favicon.ico",
+        "url": "/contentstack"
       }
     ],
     "backgroundImage": "https://image.freepik.com/free-vector/watercolor-wallpaper-with-luxurious-golden-accents_79603-1195.jpg"
